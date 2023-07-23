@@ -26,10 +26,23 @@
 | # 11 | 463.125 | DCS 125 |
 | # 12 | 463.225 | DCS 331 |
 | # 13 | 463.530 | DCS 023 |
-| # 14 |  |  |
+| # 14 | 400.225 | DCS 023 |
 | # 15 | 460.325 |  |
-| # 16 |  |  |
+| # 16 | 469.950 | CTCSS 203.5 |
 
 En el [manual de la FCC](https://fcc.report/FCC-ID/2AJGM-F17/4759426.pdf) hay una tabla de frecuencias que pone los canales en los rangos de “[FRS](https://es.wikipedia.org/wiki/Family_Radio_Service)” con sus respectivas configuraciones:
 
 [User Manual (Draft) — FCC Model: F17,BF-T17,F17G,F175M,F17Z — IC Model: F17,BF-T17](https://fcc.report/FCC-ID/2AJGM-F17/4759426.pdf)
+
+
+## CHIRP
+
+Para usarlo con CHIRP hay que seleccionar el perfil del `Retevis RB618`:
+
+![baofeng_bf-t17_chirp_freq.png](baofeng_bf-t17_chirp_freq.png)
+
+---
+
+![baofeng_bf-t17_chirp_settings.png](baofeng_bf-t17_chirp_settings.png)
+
+[Descargar imagen baofeng_bf-t17_20230723.img)](baofeng_bf-t17_20230723.img) descargada con CHIRP.
