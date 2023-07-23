@@ -45,4 +45,6 @@ Para usarlo con CHIRP hay que seleccionar el perfil del `Retevis RB618`:
 
 ![baofeng_bf-t17_chirp_settings.png](baofeng_bf-t17_chirp_settings.png)
 
-[Descargar imagen baofeng_bf-t17_20230723.img)](baofeng_bf-t17_20230723.img) descargada con CHIRP.
+---
+
+- [Descargar imagen baofeng_bf-t17_20230723.img)](baofeng_bf-t17_20230723.img) descargada con CHIRP.
